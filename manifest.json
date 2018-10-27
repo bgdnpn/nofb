@@ -1,0 +1,11 @@
+ {
+    "name": "No Facebook",
+    "version": "0.1",
+    "description": "Restrict myself from going to facebook.com",
+    "permissions": ["http://*/", "https://*/", "webRequest", "webRequestBlocking", "bookmarks"],
+    "background": {
+      "scripts": ["background.js"],
+      "persistent": true
+    },
+    "manifest_version": 2
+  }
