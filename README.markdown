@@ -1,6 +1,6 @@
 This Chrome extension will not allow you to visit facebook.com or instagram.com, instead redirecting you to one of 3 hard-coded art websites.
 
-#How to Install*
+# How to Install*
 
 0. Download the .crx file from the _target folder
 
